@@ -1,0 +1,20 @@
+{
+  "name": "test-code",
+  "version": "1.0.0",
+  "description": "all code",
+  "main": "test.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "clement",
+  "license": "ISC",
+  "dependencies": {
+    "@splidejs/splide": "^4.1.4"
+  },
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "style-loader": "^3.3.2",
+    "webpack": "^5.77.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
